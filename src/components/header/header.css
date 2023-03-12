@@ -1,0 +1,26 @@
+header {
+   height: 100vh;
+   padding-top: 10rem;
+}
+
+header > h1, h2{
+    line-height: 3rem;
+}
+
+.header__container {
+    text-align: center;
+    height: 100%;
+}
+
+.headshot > img{
+    width: 12.5rem;
+    border-radius: 25rem;
+}
+
+.cv {
+    padding: 2.5%;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    
+}
