@@ -1,0 +1,41 @@
+.container__projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+.container__projects article {
+    width: 17.5rem;
+    height: 30rem;
+    text-align: center;
+    padding: 1rem;
+    transition: var(--transition);
+    overflow: scroll;
+    
+}
+
+.container__projects article:hover {
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid var(--color-primary);
+}
+
+.container__projects img {
+    height: 10rem;
+  
+}
+
+.project__desc {
+    text-align: center;
+    
+}
+
+.project__desc h3 {
+    font-size: 1rem;
+    border-bottom: 1px solid var(--color-primary);
+    padding: 1rem 0;
+}
+
+.project__desc p {
+    font-size: 0.75rem;
+    padding: 1rem 0;
+    
+}

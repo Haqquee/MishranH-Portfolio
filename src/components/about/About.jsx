@@ -3,9 +3,9 @@ import './about.css'
 
 const About = () => {
   return (
-    <section>
+    <section id='about'>
       <h1>About Me</h1>
-      <div id='about' className="container about__container">
+      <div className="container about__container">
         <p>Hello! </p>
         <p>My name is Mishran Haque. </p>
         <p>I am an Aerospace Engineering student at Ryerson University. Space and everything extraterrestrial was fascinating to me from early childhood and throughout my High School years. This interest soon evolved into the unavoidable career choice towards Science & Engineering. </p>
