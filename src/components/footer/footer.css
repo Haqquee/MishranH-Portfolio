@@ -1,0 +1,9 @@
+.footer__content {
+    height: fit-content;
+    color: var(--color-primary);
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    font-size: 0.75rem;
+    opacity: 75%;
+}

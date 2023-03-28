@@ -62,7 +62,7 @@ const Projects = () => {
           </div>
           <div className='project__desc'>
             <h3>Forest Fire Detection Drone Payload</h3>
-            <p>During the academic year of 2020-2021, I was a part of the Aerospace Course Union at Ryerson University. This is a student group devoted to serving the Aerospace Engineering students of the university. As a group, ACU hosts various social and academic events throughout the year, as well as promotes Aerospace Engineering at Ryerson.</p>
+            <p>In my fourth year of studies at University, my term project for Systems Engineering course was to design a payload for a drone. My team and I designed and programmed a payload that could be used to detect wildfires. The payload hardware consisted of an Arduino kit alond with smoke detection and temperature sensors, which were programmed in C++.</p>
           </div>
           </a>
         </article>

@@ -1,0 +1,21 @@
+.maintenance__container{
+    background-color: rgba(255, 255, 255, 0.25);
+    font-size: 0.65rem;
+    width: 20%;
+    height: fit-content;
+    display: block;
+    border-radius: 1rem;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+    position: fixed;
+    top: 1%;
+    left: 1%;
+    border: 1px solid red;
+    box-shadow: 0 0 10px red;
+}
+
+.maintenance__container > h2 {
+    line-height: 1;
+    color: white;
+}
