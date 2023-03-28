@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MishranH-Portfolio/static/css/main.6ab0a26a.css",
-    "main.js": "/MishranH-Portfolio/static/js/main.aa34daa4.js",
+    "main.js": "/MishranH-Portfolio/static/js/main.0c5dc464.js",
     "static/media/ForestFire.jpg": "/MishranH-Portfolio/static/media/ForestFire.a85bef46fbba6f238a80.jpg",
     "static/media/Resume.pdf": "/MishranH-Portfolio/static/media/Resume.d7dfbd527075d9f747e8.pdf",
     "static/media/background.png": "/MishranH-Portfolio/static/media/background.b3aa8f6fa14a57f70226.png",
@@ -12,10 +12,10 @@
     "static/media/RPG.png": "/MishranH-Portfolio/static/media/RPG.10c0766d23f9b467f6dd.png",
     "index.html": "/MishranH-Portfolio/index.html",
     "main.6ab0a26a.css.map": "/MishranH-Portfolio/static/css/main.6ab0a26a.css.map",
-    "main.aa34daa4.js.map": "/MishranH-Portfolio/static/js/main.aa34daa4.js.map"
+    "main.0c5dc464.js.map": "/MishranH-Portfolio/static/js/main.0c5dc464.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab0a26a.css",
-    "static/js/main.aa34daa4.js"
+    "static/js/main.0c5dc464.js"
   ]
 }
