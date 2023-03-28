@@ -62,7 +62,7 @@ const Projects = () => {
           </div>
           <div className='project__desc'>
             <h3>Forest Fire Detection Drone Payload</h3>
-            <p>In my fourth year of studies at University, my term project for Systems Engineering course was to design a payload for a drone. My team and I designed and programmed a payload that could be used to detect wildfires. The payload hardware consisted of an Arduino kit alond with smoke detection and temperature sensors, which were programmed in C++.</p>
+            <p>In my fourth year of studies at University, my term project for Systems Engineering course was to design a payload for a drone. My team and I designed and programmed a payload that could be used to detect wildfires. The payload hardware consisted of an Arduino kit along with smoke detection and temperature sensors, which were programmed in C++.</p>
           </div>
           </a>
         </article>
