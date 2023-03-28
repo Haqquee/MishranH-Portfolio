@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MishranH-Portfolio/static/css/main.6ab0a26a.css",
+    "main.js": "/MishranH-Portfolio/static/js/main.aa34daa4.js",
+    "static/media/ForestFire.jpg": "/MishranH-Portfolio/static/media/ForestFire.a85bef46fbba6f238a80.jpg",
+    "static/media/Resume.pdf": "/MishranH-Portfolio/static/media/Resume.d7dfbd527075d9f747e8.pdf",
+    "static/media/background.png": "/MishranH-Portfolio/static/media/background.b3aa8f6fa14a57f70226.png",
+    "static/media/Canadarm.jpg": "/MishranH-Portfolio/static/media/Canadarm.422cde9815843311ce9b.jpg",
+    "static/media/Headshot.jpg": "/MishranH-Portfolio/static/media/Headshot.0636e4bfce0c963b3503.jpg",
+    "static/media/ACU.jpeg": "/MishranH-Portfolio/static/media/ACU.83043b20293a7cc7c1cb.jpeg",
+    "static/media/RRC.png": "/MishranH-Portfolio/static/media/RRC.bf44df5bdc3742391d85.png",
+    "static/media/RPG.png": "/MishranH-Portfolio/static/media/RPG.10c0766d23f9b467f6dd.png",
+    "index.html": "/MishranH-Portfolio/index.html",
+    "main.6ab0a26a.css.map": "/MishranH-Portfolio/static/css/main.6ab0a26a.css.map",
+    "main.aa34daa4.js.map": "/MishranH-Portfolio/static/js/main.aa34daa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab0a26a.css",
+    "static/js/main.aa34daa4.js"
+  ]
+}
